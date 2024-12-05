@@ -12,6 +12,8 @@ The **Currency Converter App** is a simple and intuitive iOS application built w
 - **Dynamic Updates:** Automatically updates rates when the app launches or on user request.
 
 ---
+![Description of Screenshot](currency-convertor.png)
+---
 
 ## Installation
 1. Clone the repository:
@@ -60,19 +62,3 @@ The app uses the **ExchangeRate-API** to fetch live exchange rates. Ensure you h
 ## Known Issues
 - The app may show an empty currency list if exchange rates fail to load.
 - Ensure a stable internet connection for live exchange rate updates.
-
----
-
-## Contributing
-Contributions are welcome! Follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes and push them to your fork.
-4. Submit a pull request.
-
----
-**GitHub:** [leticiad7](https://github.com/leticiad7)
-
