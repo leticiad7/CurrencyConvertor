@@ -13,6 +13,9 @@ The **Currency Converter App** is a simple and intuitive iOS application built w
 
 ---
 ![Description of Screenshot](currency-convertor.png)
+
+<img src="./currency-convertor.png" alt="Main Screen" width="300"/>
+
 ---
 
 ## Installation
