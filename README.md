@@ -13,11 +13,6 @@ The **Currency Converter App** is a simple and intuitive iOS application built w
 
 ---
 
-## Screenshots
-(Add screenshots of your app's main screens here.)
-
----
-
 ## Installation
 1. Clone the repository:
    ```bash
